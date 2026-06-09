@@ -55,7 +55,8 @@ The design is simulated using Icarus Verilog and waveform analysis is performed 
 * Individual module testbenches
 * Top-level pipeline simulation
 * Waveform verification using VCD files
-<img width="1391" height="721" alt="image" src="https://github.com/user-attachments/assets/25f26039-2b2c-4cde-9676-b999a44b7e2d" />
+<img width="1391" height="720" alt="image" src="https://github.com/user-attachments/assets/1b2d21ad-c5ed-4e8a-8715-51cafa6723a7" />
+
 
 ---
 
